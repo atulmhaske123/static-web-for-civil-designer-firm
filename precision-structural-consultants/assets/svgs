@@ -1,0 +1,28 @@
+Here are the contents for the file: /precision-structural-consultants/precision-structural-consultants/assets/svgs. This directory will contain SVG icons and images used in the UI. Below are some example SVG icons that can be used for a civil engineering consultancy website.
+
+<!-- /precision-structural-consultants/precision-structural-consultants/assets/svgs/construction.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <path d="M32 0L0 32h8v32h16V48h16v16h16V32h8L32 0z" fill="#4A90E2"/>
+</svg>
+
+<!-- /precision-structural-consultants/precision-structural-consultants/assets/svgs/engineering.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <path d="M32 0L0 32h8v32h16V48h16v16h16V32h8L32 0z" fill="#7ED321"/>
+</svg>
+
+<!-- /precision-structural-consultants/precision-structural-consultants/assets/svgs/materials.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <path d="M32 0L0 32h8v32h16V48h16v16h16V32h8L32 0z" fill="#F5A623"/>
+</svg>
+
+<!-- /precision-structural-consultants/precision-structural-consultants/assets/svgs/quality.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <path d="M32 0L0 32h8v32h16V48h16v16h16V32h8L32 0z" fill="#D0021B"/>
+</svg>
+
+<!-- /precision-structural-consultants/precision-structural-consultants/assets/svgs/safety.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <path d="M32 0L0 32h8v32h16V48h16v16h16V32h8L32 0z" fill="#50E3C2"/>
+</svg>
+
+These SVG files can be saved in the specified directory and used throughout the website to enhance the visual appeal and convey the services offered by the consultancy.

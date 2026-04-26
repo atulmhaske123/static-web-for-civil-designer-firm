@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /config/
+Disallow: /js/vendors/
+Disallow: /css/vendors/
+
+Allow: /
+Allow: /index.html
+Allow: /images/
+Allow: /assets/icons/
+Allow: /assets/images/
+
+Sitemap: https://www.precisionstructuralconsultants.com/sitemap.xml
