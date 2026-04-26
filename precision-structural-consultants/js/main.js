@@ -116,23 +116,6 @@ document.addEventListener('DOMContentLoaded', () => {
     document.addEventListener('dataLoaded', runCounters);
     setTimeout(runCounters, 800); // fallback for file:// if dataLoaded misfires
 
-    // contact form submit (no backend) - simulate success
-    const form = document.getElementById('contactForm');
-    if (form) {
-        form.addEventListener('submit', (e) => {
-            e.preventDefault();
-            const btn = form.querySelector('button');
-            btn.disabled = true;
-            btn.innerText = 'Sending...';
-            setTimeout(() => {
-                btn.disabled = false;
-                btn.innerText = 'Send';
-                alert('Thank you — your message was sent (demo).');
-                form.reset();
-            }, 900);
-        });
-    }
-
     // update footer year automatically
     const year = document.getElementById('footer-year');
     if (year) year.textContent = new Date().getFullYear();
